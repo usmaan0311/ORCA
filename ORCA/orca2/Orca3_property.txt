@@ -1,0 +1,49 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+------------------------ !PROPERTY! -------------------------
+   name:        PAL_Flags
+   comment:     The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Energy
+   comment:     The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:      -78.8804695258
+------------------------ !PROPERTY! -------------------------
+   name:        SCF_Electric_Properties
+   comment:     The SCF Calculated Electric Properties
+   geom. index: 1
+   prop. index: 1
+       Filename                          : Orca3.scfp 
+       Do Dipole Moment Calculation      : 1 
+       Do Quadrupole Moment Calculation  : 0 
+       Do Polarizability Calculation     : 0 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0002821835
+        Electronic Contribution:
+                   0          1          2    
+      0      -0.000096   0.000011   0.000001
+        Nuclear Contribution:
+                   0          1          2    
+      0      -0.000015  -0.000007   0.000000
+        Total Dipole moment:
+                   0          1          2    
+      0      -0.000111   0.000004   0.000001
+-------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+-------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    8        Geometry Index:    1
+    Coordinates:
+            C     -6.153640000000    3.586840000000    0.000000000000
+            C     -2.212090000000    3.473740000000   -0.000000000000
+            H     -6.503670000000    3.823340000000    0.983080000000
+            H     -6.537830000000    2.632910000000   -0.295500000000
+            H     -6.488990000000    4.334950000000   -0.687580000000
+            H     -1.876750000000    2.725620000000    0.687580000000
+            H     -1.827910000000    4.427670000000    0.295500000000
+            H     -1.862060000000    3.237240000000   -0.983080000000

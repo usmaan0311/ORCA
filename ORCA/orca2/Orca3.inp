@@ -1,0 +1,21 @@
+# avogadro generated ORCA input file 
+# Advanced Mode
+# 
+! RHF SP def2-SVP NormalPrint NormalSCF pal4 
+%scf
+	MaxIter 125
+	CNVDIIS 1
+	CNVSOSCF 1 
+end
+
+* xyz 0 1
+   C       -6.15364        3.58684        0.00000
+   C       -2.21209        3.47374       -0.00000
+   H       -6.50367        3.82334        0.98308
+   H       -6.53783        2.63291       -0.29550
+   H       -6.48899        4.33495       -0.68758
+   H       -1.87675        2.72562        0.68758
+   H       -1.82791        4.42767        0.29550
+   H       -1.86206        3.23724       -0.98308
+*
+
